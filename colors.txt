@@ -1,0 +1,8 @@
+| Role                              | Colour                | Hex       |
+| --------------------------------- | --------------------- | --------- |
+| **Background (main)**             | Deep navy             | `#0D1321` |
+| **Cards / Secondary Background**  | Soft black / charcoal | `#1A1F2B` |
+| **Text / Main**                   | Soft off-white        | `#E6E6E6` |
+| **Accent / Buttons / Highlights** | Soft muted blue       | `#4B6C9E` |
+| **Secondary Accent / Hover**      | Blue-grey             | `#2E3B55` |
+| **Borders / Subtle Dividers**     | Very soft grey-blue   | `#3C465E` |
