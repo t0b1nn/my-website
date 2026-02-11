@@ -19,9 +19,9 @@ header {
     border-bottom-color: #3C465E;
 }
 
-header .logo img {
-    width: 80px;
-    height: 80px;
+header .logo {
+    font-weight: bold;
+    font-size: 20px;
 }
 
 header nav ul{
