@@ -8,6 +8,7 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #0D1321;
     color: #E6E6E6;
+    margin: 0px;
 }
 
 header {
@@ -21,8 +22,8 @@ header {
 
 header .logo {
     font-weight: bold;
-    font-size: 20px;
-    padding-left: 20px;
+    font-size: 50px;
+    padding-left: 30px;
 }
 
 header nav ul{
