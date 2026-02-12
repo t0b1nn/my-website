@@ -16,7 +16,7 @@ header {
     align-items: center;
     height: 80px;
     border-bottom-width: 20px;
-    border-bottom-color: #3C465E;
+    background-color: #121B2E;
 }
 
 header .logo {
