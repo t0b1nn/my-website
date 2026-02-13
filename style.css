@@ -38,7 +38,7 @@ header nav ul{
 }
 
 .time {
-    display: inline-block;
-    width: 1000px;
-    background-color: antiquewhite;
+    width: 250px;
+    display: flex;
+    justify-content: center;
 }
