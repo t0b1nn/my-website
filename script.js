@@ -3,7 +3,7 @@ function updateClock() {
     const hours = String(time.getHours()).padStart(2, "0")
     const mins = String(time.getMinutes()).padStart(2, "0")
     const secs = String(time.getSeconds()).padStart(2, "0")
-    document.getElementById("clock").textContent = `${hour}:${mins}:${secs}`
+    document.getElementById("clock").textContent = `${hours}:${mins}:${secs}`
 }
 
 updateClock()
