@@ -14,11 +14,12 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    height: 15vh;
 }
 
 header .logo {
     font-weight: bold;
-    font-size: 5vw;
+    font-size: 6vw;
     padding-left: 2vw;
 }
 
@@ -27,6 +28,7 @@ header nav ul{
     gap: 30px;
     list-style-type: none;
     padding-right: 2vw;
+    font-size: 2.5vw;
 }
 
 #clock {
