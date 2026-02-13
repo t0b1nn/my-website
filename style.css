@@ -36,3 +36,9 @@ header nav ul{
     font-size: 200px;
     font-weight: bold;
 }
+
+.time {
+    display: inline-block;
+    width: 1000px;
+    background-color: antiquewhite;
+}
