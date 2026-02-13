@@ -29,3 +29,10 @@ header nav ul{
     list-style-type: none;
     padding-right: 30px;
 }
+
+#clock {
+    display: flex;
+    justify-content: center;
+    font-size: 200px;
+    font-weight: bold;
+}
