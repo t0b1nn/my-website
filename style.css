@@ -14,31 +14,30 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    height: 80px;
 }
 
 header .logo {
     font-weight: bold;
-    font-size: 50px;
-    padding-left: 30px;
+    font-size: 5vw;
+    padding-left: 2vw;
 }
 
 header nav ul{
     display: flex;
     gap: 30px;
     list-style-type: none;
-    padding-right: 30px;
+    padding-right: 2vw;
 }
 
 #clock {
     display: flex;
     justify-content: center;
-    font-size: 200px;
+    font-size: 20vw;
     font-weight: bold;
 }
 
 .time {
-    width: 250px;
+    width: 50%;
     display: flex;
     justify-content: center;
 }
