@@ -51,3 +51,13 @@ header nav ul a {
 .container {
     display: flex;
 }
+
+.section {
+    flex: 1;
+    padding: 1rem;
+}
+
+.divider {
+    width: 5px;
+    background-color: #3C465E;
+}
