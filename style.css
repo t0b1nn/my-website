@@ -47,3 +47,7 @@ header nav ul a {
     display: flex;
     justify-content: center;
 }
+
+.container {
+    display: flex;
+}
