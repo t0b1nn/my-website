@@ -62,3 +62,16 @@ header nav ul a {
     width: 5px;
     background-color: #3C465E;
 }
+
+.gamebox {
+    background-color: #1A1F2B;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+    flex: 1;
+}
+
+.game {
+    max-height: 400px;
+}
