@@ -33,9 +33,21 @@ header nav ul {
     padding-right: 2vw;
 }
 
-header nav ul a {
+nav a {
     color: #E6E6E6;
     text-decoration: none;
+}
+nav a::after {
+    content: "";
+    display: block;
+    background-color: white;
+    width: 0;
+    height: 2px;
+    margin-top: 10px;
+    transition: 0.5s ease-out;
+}
+nav a:hover::after {
+    width: 100%;
 }
 
 #clock {
