@@ -18,11 +18,12 @@ header {
     height: 15vh;
 }
 
-header .logo {
+header .logo a{
     font-weight: bold;
     font-size: clamp(1.5rem, 6vw, 3rem);
     color: #E6E6E6;
     padding-left: 2vw;
+    text-decoration: none;
 }
 
 header nav ul {
